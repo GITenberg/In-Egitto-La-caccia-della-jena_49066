@@ -1,4 +1,8 @@
 _repo: In-Egitto-La-caccia-della-jena_49066
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49066-h/images/cover.jpg
 creator:
   author:
     agent_name: Lessona, Michele
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43204
     wikipedia: http://it.wikipedia.org/wiki/Michele_Lessona
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49066#In-Egitto-La-caccia-della-jena
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2015-05-28'
 gutenberg_type: Text
